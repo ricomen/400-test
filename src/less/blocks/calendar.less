@@ -1,0 +1,99 @@
+.calendar {
+  margin-bottom: 55px;
+  
+  &__item {
+    margin-bottom: 35px;
+    margin-right: 340px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &__month,
+  &__year  {
+    display: inline-block;
+    vertical-align: baseline;
+  }
+
+  &__month {
+    margin-right: 15px;
+    font-size: 42px;
+    font-weight: bold;
+  }
+
+  &__year {
+    font-size: 22px;
+    color: #b0b0b0;
+  }
+
+  &__slider {
+    border-bottom: 1px dotted #000;
+    padding-bottom: 30px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+
+
+  &__day {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+    padding: 9.5px 0;
+    font-family: serif;
+    font-size: 36px;
+    text-align: center;
+    min-width: 62px;
+    border-radius: 5px;    
+    box-sizing: border-box;
+    transition: background 0.25s, color 0.25s;
+    color: #000;
+    &::after,
+    &::before {
+      position: absolute;
+      content: "";
+      bottom: -30px;
+      width: 1px;      
+      background: #000;
+      height: 10px;
+    }
+    &::before {
+      left: 50%;
+      margin-left: -1px;
+    }
+    &::after {
+      right: 0;      
+    }
+    &:nth-child(5n+5) {
+      &::before {
+        height: 20px;
+      }
+    }
+
+    &:hover[href] {
+      background: #ebebeb;
+    }
+    &--current {
+      color: #fff;
+      background: @red;
+      span {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -60px;
+        font-family: @ProximaNova;
+        font-size: 18px;
+        font-weight: 800;
+        color: #000;
+      }
+    }
+    &--past {
+      color: #a0a1a3;
+      background: #ebebeb;
+      &:hover {
+        color: #303336 !important;
+        background: #dddddd !important;
+      }
+    }
+  }//day
+}

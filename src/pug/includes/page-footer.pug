@@ -1,2 +1,45 @@
-footer.page-footer
-  
+.container
+  footer.page-footer
+    .page-footer__body
+      nav.main-nav.main-nav--footer
+        ul.main-nav__list
+          li.main-nav__item
+            a(href="#") Новокузнецк 400
+          li.main-nav__item
+            a() Календарь событий
+          li.main-nav__item
+            a(href="#") Голосование
+          li.main-nav__item
+            a(href="#") Проекты
+      nav.page-footer__nav
+        ul.page-footer__list
+          li.page-footer__item
+            a(href="/") 5 шагов благоустройтсва
+          li.page-footer__item
+            a(href="/") Новости
+          li.page-footer__item
+            a(href="/") Фотобанк
+          li.page-footer__item
+            a(href="/") Партнеры
+          li.page-footer__item
+            a(href="/") Контакты
+          li.page-footer__item
+            a(href="/") Карта сайта
+    .page-footer__bottom
+      .page-footer__descr
+        img(src="img/svg/pennant.svg" width="31" height="37" alt="Новокузнецк")
+        p Сайт 
+          a(href="/") Новокузнецк 
+          | 400 посвящен подготовке к празднованию 400 летия города Новокузнецк. Сайт является образовательным                информационным проектом администрации и жителей города. По всем вопросам его работы обращайтесь в разделе 
+          a(href="/") контакты.
+      .page-footer__social
+        a(href="/")
+          +icon("instagram", 20, 20)
+        a(href="/")
+          +icon("twitter", 20, 20)
+        a(href="/")
+          +icon("vk", 20, 20)
+        a(href="/")
+          +icon("fb", 20, 20)
+      .page-footer__bottom-link
+        a(href="/").icon.icon--poirr

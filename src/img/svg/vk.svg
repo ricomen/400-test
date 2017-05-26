@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.4617279mm"
+   height="4.2224879mm"
+   viewBox="0 0 3.4617279 4.2224879"
+   version="1.1"
+   id="svg5290"
+   sodipodi:docname="vk.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs5284">
+    <style
+       id="style5835">
+      .cls-1 {
+        fill: #e61035;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath
+       id="a">
+      <path
+         id="path5848"
+         d="M 0,88.347 H 72.98 V 0 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <style
+       id="style5903">
+      .cls-1 {
+        fill: #dcdcdc;
+        fill-rule: evenodd;
+      }
+    </style>
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #dcdcdc;
+        fill-rule: evenodd;
+      }
+    </style>
+    <style
+       id="style4489">
+      .cls-1 {
+        fill: #e61035;
+      }
+    </style>
+    <style
+       id="style2-5">
+      .cls-1 {
+        fill: #cececf;
+        fill-rule: evenodd;
+      }
+    </style>
+    <style
+       id="style4489-4">
+      .cls-1 {
+        fill: #303336;
+      }
+    </style>
+    <style
+       id="style2-2">
+      .cls-1 {
+        fill: #cececf;
+        fill-rule: evenodd;
+      }
+    </style>
+    <style
+       id="style4489-2">
+      .cls-1 {
+        fill: #303336;
+      }
+    </style>
+    <style
+       id="style2-0">
+      .cls-1 {
+        fill: #cececf;
+        fill-rule: evenodd;
+      }
+    </style>
+    <style
+       id="style4489-9">
+      .cls-1 {
+        fill: #303336;
+      }
+    </style>
+    <style
+       id="style5973">
+      .cls-1 {
+        fill: #a1a1a1;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="4.9234905"
+     inkscape:cy="-40.348543"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5287">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(234.66268,-155.07115)">
+    <path
+       style="fill:#a1a1a1;fill-rule:evenodd;stroke-width:0.99999994"
+       d="m -886.91406,586.0957 v 15.95899 h 6.70898 c 3.19004,0 6.3711,-1.20064 6.3711,-4.89063 0.0849,-1.93997 -1.33474,-3.61972 -3.26172,-3.85937 v -0.0801 c 1.36904,-0.58199 2.24231,-1.94265 2.20117,-3.42969 0,-3.41 -3.23937,-3.69922 -5.85938,-3.69922 z m 4.33008,2.92969 h 1.18945 c 1.16999,0 2.43945,0.1 2.43945,1.58984 0,1.64999 -1.24886,1.7793 -2.54883,1.7793 h -1.08007 z m 0,6.10938 h 1.8496 c 1.41,0 2.78907,0.15912 2.78907,1.94921 0,1.91003 -1.77978,2.04102 -3.25977,2.04102 h -1.3789 z"
+       transform="scale(0.26458333)"
+       id="path5977"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccccsccssscccssscc" />
+  </g>
+</svg>

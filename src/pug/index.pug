@@ -2,14 +2,15 @@ extends templates/layout
 include templates/mixins
 
 block title 
-  title Главная
+  title Календарь событий
 
 block main
   include includes/page-header
-  include includes/page-main
+  include includes/events
+  include includes/calendar
   include includes/page-footer
   
 block script
-  script(src="js/libs/jquery-2.2.4.min.js")
-  script(src="js/svg.min.js")
-  script(src="js/main.js")
+  //- script(src="js/libs/jquery-2.2.4.min.js")
+  //- script(src="js/svg.min.js")
+  //- script(src="js/main.js")
